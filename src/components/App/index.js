@@ -517,7 +517,7 @@ class App extends React.Component {
                         */}
 
                         <div className="front-page__heading">
-                            P3D Clone
+                            Daily Return
                         </div>
                         <div className="front-page__caption">
                             A CLONE OF P3D ON TRON <br />
