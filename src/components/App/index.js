@@ -520,7 +520,7 @@ class App extends React.Component {
                             Daily Return
                         </div>
                         <div className="front-page__caption">
-                            A CLONE OF P3D ON TRON <br />
+                            P3D ON TRON <br />
                             PLAYABLE ON SHASTA TESTNET
                         </div>
 
